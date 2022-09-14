@@ -1,0 +1,8 @@
+god
+goat
+pig
+chicken
+elephant
+lion
+tiger
+cat
