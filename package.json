@@ -1,0 +1,8 @@
+{
+  "name": "git-vscode-devtools-fall-2022",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/upleveled/git-vscode-devtools-fall-2022.git",
+  "author": "Victor Ejike Nwosu <ejikello123@yahoo.com>",
+  "license": "MIT"
+}
